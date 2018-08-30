@@ -16,4 +16,4 @@ After a successful login every user can:
 * edit/delete his photos and reviews/comments
 
 ### 4. What can admin do?
-Unlike the user's opportunities, admin has a lot more control over the site. He can Edit and Delete photos and reviews/comments. Admin also has users functionality.
+Unlike the user's opportunities, admin has a lot more control over the site. He can Edit and Delete photos and reviews/comments, can Edit and Delete users. Admin also has users functionality.
